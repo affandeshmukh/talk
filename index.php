@@ -93,7 +93,7 @@
         <form id="send-message-area">
             <p>Your message: </p>
             <textarea id="sendie" maxlength = '100' ></textarea>
-            <input type="upload">
+            <input type="submit">
         </form>
     
     </div>
