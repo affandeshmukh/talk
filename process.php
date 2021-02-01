@@ -1,10 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-<script data-ad-client="ca-pub-4826424761287686" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	</head>
-	<body>
 <?php
 
     $function = $_POST['function'];
@@ -66,5 +59,3 @@
     echo json_encode($log);
 
 ?>
-		</body>
-	</html>
