@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head><script data-ad-client="ca-pub-1914156115794449" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script data-ad-client="ca-pub-4826424761287686" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
     <title>Chat</title>
