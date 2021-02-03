@@ -93,8 +93,8 @@
         <form id="send-message-area">
             <p>Your message: </p>
             <textarea id="sendie" maxlength = '100' ></textarea>    
-    <input type="text" name="sendie" id="sendie" maxlength = '100' >
-            <input type="submit" value="go">
+    
+            <input type="submit" id="sendie" value="go">
     </div>
 </form>
 </body>
