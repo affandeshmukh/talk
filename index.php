@@ -1,7 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-<head><script data-ad-client="ca-pub-1914156115794449" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<head>
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
     <title>Chat</title>
@@ -83,19 +84,19 @@
 
     <div id="page-wrap">
     
-        <h2>Group chat</h2>
+        <h2>jQuery/PHP Chat</h2>
         
         <p id="name-area"></p>
         
         <div id="chat-wrap"><div id="chat-area"></div></div>
         
-        <form id="send-message-area" action="# ">
+        <form id="send-message-area">
             <p>Your message: </p>
-            <textarea id="sendie" maxlength = '100' ></textarea>    
+            <textarea id="sendie" maxlength = '100' ></textarea>
+        </form>
     
-            <input type="submit" id="sendie" value="go">
     </div>
-</form>
+
 </body>
 
 </html>
