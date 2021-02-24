@@ -3,12 +3,13 @@
 
 <head>
 
+<script data-ad-client="ca-pub-1914156115794449" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
     <title>Group Chat</title>
     
     <link rel="stylesheet" href="style.css" type="text/css" />
-    <script data-ad-client="ca-pub-4826424761287686" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>script>
+ 
     <script type="text/javascript" src="chat.js"></script>
     <script type="text/javascript">
     
